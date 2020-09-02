@@ -1,1 +1,1 @@
-# tallurikoushik
+# day-6 assignment
